@@ -201,3 +201,6 @@ Design: Design inspiration while building the Loominote app (Figma color palette
 Development: Akash Kundu
 
 Inspiration: Apple SwiftUI + Apple Intelligence design system
+
+
+<img width="355" height="726" alt="Image" src="https://github.com/user-attachments/assets/e652f53c-ed05-4761-b557-d0552dc6f98b" />
