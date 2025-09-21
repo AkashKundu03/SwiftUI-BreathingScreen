@@ -202,5 +202,4 @@ Development: Akash Kundu
 
 Inspiration: Apple SwiftUI + Apple Intelligence design system
 
-
-<img width="355" height="726" alt="Image" src="https://github.com/user-attachments/assets/e652f53c-ed05-4761-b557-d0552dc6f98b" />
+<img width="348" height="710" alt="Image" src="https://github.com/user-attachments/assets/c6cea3b1-552c-4209-9c08-1c9bec4bdff8" />
